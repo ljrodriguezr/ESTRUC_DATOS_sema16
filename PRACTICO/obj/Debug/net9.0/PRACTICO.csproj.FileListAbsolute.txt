@@ -1,0 +1,14 @@
+c:\ESTRUC_DATOS\PRACTICO\bin\Debug\net9.0\PRACTICO.exe
+c:\ESTRUC_DATOS\PRACTICO\bin\Debug\net9.0\PRACTICO.deps.json
+c:\ESTRUC_DATOS\PRACTICO\bin\Debug\net9.0\PRACTICO.runtimeconfig.json
+c:\ESTRUC_DATOS\PRACTICO\bin\Debug\net9.0\PRACTICO.dll
+c:\ESTRUC_DATOS\PRACTICO\bin\Debug\net9.0\PRACTICO.pdb
+c:\ESTRUC_DATOS\PRACTICO\obj\Debug\net9.0\PRACTICO.GeneratedMSBuildEditorConfig.editorconfig
+c:\ESTRUC_DATOS\PRACTICO\obj\Debug\net9.0\PRACTICO.AssemblyInfoInputs.cache
+c:\ESTRUC_DATOS\PRACTICO\obj\Debug\net9.0\PRACTICO.AssemblyInfo.cs
+c:\ESTRUC_DATOS\PRACTICO\obj\Debug\net9.0\PRACTICO.csproj.CoreCompileInputs.cache
+c:\ESTRUC_DATOS\PRACTICO\obj\Debug\net9.0\PRACTICO.dll
+c:\ESTRUC_DATOS\PRACTICO\obj\Debug\net9.0\refint\PRACTICO.dll
+c:\ESTRUC_DATOS\PRACTICO\obj\Debug\net9.0\PRACTICO.pdb
+c:\ESTRUC_DATOS\PRACTICO\obj\Debug\net9.0\PRACTICO.genruntimeconfig.cache
+c:\ESTRUC_DATOS\PRACTICO\obj\Debug\net9.0\ref\PRACTICO.dll
